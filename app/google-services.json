@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725745302175",
+    "firebase_url": "https://gpsbasedlandsurvey.firebaseio.com",
+    "project_id": "gpsbasedlandsurvey",
+    "storage_bucket": "gpsbasedlandsurvey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725745302175:android:f9394ef1d8125b56",
+        "android_client_info": {
+          "package_name": "com.example.indira.hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725745302175-tuclahu5rgl69l1opupuclf2cnsagscm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indira.hack",
+            "certificate_hash": "a26b0da5b8565e0655ac437fbf2485fa1d63a589"
+          }
+        },
+        {
+          "client_id": "725745302175-aebpahs4cf20nln68probgfg3pm0ei1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcSY8AnjiGajtOd7HVigCFV_A8RRrT0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725745302175-aebpahs4cf20nln68probgfg3pm0ei1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
